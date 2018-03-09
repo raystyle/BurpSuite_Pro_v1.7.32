@@ -11,9 +11,6 @@ C:\Users\CTF\Desktop
 > md5sum burpsuite_pro_v1.7.32.jar
 d4d43e44769b121cfd930a13a2b06b4c *burpsuite_pro_v1.7.32.jar
 
-C:\Users\CTF\Desktop
-> md5sum burpsuite_pro_v1.7.32.jar
-d4d43e44769b121cfd930a13a2b06b4c *burpsuite_pro_v1.7.32.jar
 
 ```
 
