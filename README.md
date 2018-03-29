@@ -1,3 +1,18 @@
+# 更新 burpsuite_pro_1.7.33.jar
+
+![](./burpsuite_pro_1.7.33.jpg)
+```
+> md5sum burpsuite_pro_1.7.33.jar
+cb6e5a00979463a2be634b6d5388bc49 *burpsuite_pro_1.7.33.jar
+
+> sha1sum burpsuite_pro_1.7.33.jar
+4ce0e13f73a981ba3090f58c3aed9763432651ea *burpsuite_pro_1.7.33.jar
+
+> sha256sum burpsuite_pro_1.7.33.jar
+44bb6811f838aa6e3a47b0dc0d4ef5f7fbddc031ca5efe2d8bb5f24eb105dc12 *burpsuite_pro_1.7.33.jar
+
+```
+
 # 更新 burpsuite_pro_v1.7.32.jar
 ```
 > sha256sum burpsuite_pro_v1.7.32.jar
