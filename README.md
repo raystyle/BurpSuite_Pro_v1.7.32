@@ -2,6 +2,10 @@
 
 ![](./burpsuite_pro_1.7.33.jpg)
 ```
+1. 宏配置中的一些错误，其中一些Cookie处理设置可能无法在执行Burp时正确保存。
+2. 最近发布的自动项目备份功能中的一些小错误。
+3. 即使用户禁止使用协作者，扩展仍然可以获得对Burp协作者客户端的API访问权限的错误。
+
 > md5sum burpsuite_pro_1.7.33.jar
 cb6e5a00979463a2be634b6d5388bc49 *burpsuite_pro_1.7.33.jar
 
